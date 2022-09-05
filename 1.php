@@ -14,6 +14,3 @@ function displayResult ($n, $isValidNumber)
     }
 }
 
-for ($i = 1; $i <= 100; $i++) {
-    displayResult($i, isValidNumber($i));
-}
